@@ -1,7 +1,7 @@
 # medical_video_segmentation
 
 ## Real-time polyp detection for gastrointestinal endoscopy using deeep learning
-
+## 교내 경진대회 우수상
 - 연구 배경 및 목적
 
 ![image](https://user-images.githubusercontent.com/45275607/143397846-acc7eea9-f854-4f80-822d-c7cea6b64b4f.png)
